@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, my name is Rafael! 👋
 I’m currently studying web development on the university IPLUSO
+Trying to learn about game development.
+I know Python and Java but know more about Python.
+
 <!--
 **Rafdegus/Rafdegus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
