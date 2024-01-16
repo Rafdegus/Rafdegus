@@ -1,5 +1,5 @@
 ### Hi there, my name is Rafael! 👋
-I’m currently studying web development on the university IPLUSO
+I’m currently studying web development on the university IPLUSO \n
 Trying to learn about game development.
 I know Python and Java but know more about Python.
 
